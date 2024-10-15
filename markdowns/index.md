@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "LoachMemory"
-  text: "Loach 的 个人笔记"
+  text: ""
   tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /examples/markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /examples/api-examples
 
 features:
   - title: Feature A
