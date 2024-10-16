@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    lang: "zh-cn",
+    lang: "en-US",
     title: "LoachMemory",
     description: "",
     // base: '/base/',

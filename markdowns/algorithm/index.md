@@ -1,5 +1,5 @@
 ---
-title: 算法111
+title: 算法
 editLink: true
 sidebar: true
 footer: false
