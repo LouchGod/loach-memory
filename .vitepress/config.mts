@@ -33,7 +33,10 @@ export default defineConfig({
             { text: "WebGL", link: "/webgl/" },
             { text: "设计模式", link: "/design-pattern/" },
             { text: "算法", link: "/algorithm/" },
-            { text: "面试题集", link: "/interview/index" },
+            {
+                text: "面试题集",
+                link: "/interview/index",
+            },
         ],
 
         sidebar: {
@@ -62,8 +65,16 @@ export default defineConfig({
 
             "/interview/": [
                 {
-                    text: "面试",
-                    items: [{ text: "面试", link: "/interview/index" }],
+                    text: "Interview",
+                    items: [
+                        { text: "Javascript", link: "/interview/javascript/" },
+                        { text: "CSS", link: "/interview/css/" },
+                        { text: "Vue", link: "/interview/vue/" },
+                        { text: "React", link: "/interview/react/" },
+                        { text: "工程化", link: "/interview/engineering/" },
+                        { text: "算法", link: "/interview/algorithm/" },
+                        { text: "其他", link: "/interview/index" },
+                    ],
                 },
             ],
 
