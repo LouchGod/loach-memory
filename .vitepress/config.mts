@@ -76,6 +76,21 @@ export default defineConfig({
                         { text: "其他", link: "/interview/index" },
                     ],
                 },
+
+                {
+                    text: "Github Interview",
+                    items: [
+                        { text: "Javascript", link: "/interview/javascript/github.md" },
+                        { text: "CSS", link: "/interview/css/github.md" },
+                        { text: "Vue", link: "/interview/vue/github.md" },
+                        { text: "React", link: "/interview/react/github.md" },
+                        { text: "工程化", link: "/interview/engineering/github.md" },
+                        { text: "算法", link: "/interview/algorithm/github.md" },
+                        { text: "Node", link: "/interview/Node/github.md" },
+                        { text: "http", link: "/interview/http/github.md" },
+                        { text: "其他", link: "/interview/other/github.md" },
+                    ],
+                },
             ],
 
             "/javascript/": [
