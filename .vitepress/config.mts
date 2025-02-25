@@ -34,7 +34,7 @@ export default defineConfig({
             { text: "设计模式", link: "/design-pattern/" },
             { text: "算法", link: "/algorithm/" },
             {
-                text: "面试题集",
+                text: "Interview",
                 link: "/interview/index",
             },
         ],
