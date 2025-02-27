@@ -30,3 +30,8 @@
 ```
 
 :::
+::: details npm install的实现原理
+
+[解析](https://www.zhihu.com/question/66629910)
+
+:::

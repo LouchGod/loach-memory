@@ -24,7 +24,6 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: "首页", link: "/" },
-            { text: "示例", link: "/examples/markdown-examples" },
             { text: "Vue", link: "/vue/" },
             { text: "React", link: "/react/" },
             { text: "Typescript", link: "/typescript/" },
@@ -33,6 +32,8 @@ export default defineConfig({
             { text: "WebGL", link: "/webgl/" },
             { text: "设计模式", link: "/design-pattern/" },
             { text: "算法", link: "/algorithm/" },
+            // { text: "示例", link: "/examples/markdown-examples" },
+            { text: "HTTP", link: "/http" },
             {
                 text: "Interview",
                 link: "/interview/index",
